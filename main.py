@@ -34,7 +34,7 @@ PREVIOUS_REQ=""
 # Static list of lunch options
 OPTIONS = ["Hop", "Thai Express", "Paradice Slice", "M&S Chicken", "Shoryu", "On the Bab", "Korean BBQ Dosirak",
                "The Posh Burger Co", "Tas Firin", "Wagamama", "Farmer J", "Chilango", "Shake Shack",
-               "Xian Biang Biang Noodles", "Rosa's Thai Café"]
+               "Xian Biang Biang Noodles", "Rosa's Thai Cafe"]
 
 
 @app.route("/", methods=["GET", "POST"])
